@@ -1,0 +1,28 @@
+.BodyStyle{
+    background-image: linear-gradient(to right, pink , rgb(145, 108, 145));
+}
+
+.colorChange{
+    height: 80vh;
+    border: 2px solid;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.text{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.changeText{
+    text-align: center;
+    color: white;
+    background-color:rgb(145, 108, 145);
+    border-radius: 10vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
